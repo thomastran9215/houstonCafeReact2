@@ -1,9 +1,9 @@
 export const PROMOTIONS = [
     {
         id: 0,
-        name: "Mountain Adventure",
-        image: "/assets/images/breadcrumb-trail.jpg",
+        name: "Voted best café in town!",
+        image: "/assets/images/coffee-shop.jpg",
         featured: true,
-        description: "Book a 5-day mountain trek with a seasoned outdoor guide! Fly fishing equipment and lessons provided."
+        description: "Book a lunch break with a friend! Try our new cookies and cream Macchiato."
     }
 ]

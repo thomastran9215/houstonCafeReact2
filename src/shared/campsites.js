@@ -25,10 +25,10 @@ export const CAMPSITES = [
     },
     {
         id: 3,
-        name:"Redux Woods Campground",
-        image: "/assets/images/redux-woods.jpg",
+        name:"We care about your wellbeing",
+        image: "/assets/images/nutri.jpg",
         elevation: 42,
         featured: true,
-        description: "You'll never want to leave this hidden gem, deep within the lush Redux Woods."
+        description: "You can ask any associate for the caloric content of anything in our menú"
     }
 ];

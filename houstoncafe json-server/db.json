@@ -201,6 +201,14 @@
       "text": "test comment",
       "date": "2019-12-20T20:51:02.588Z",
       "id": 20
+    },
+    {
+      "campsiteId": 3,
+      "rating": "3",
+      "author": "ss",
+      "text": "sdafsdfd",
+      "date": "2019-12-21T05:08:16.301Z",
+      "id": 21
     }
   ],
   "partners": [

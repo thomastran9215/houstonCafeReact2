@@ -34,15 +34,18 @@ class Header extends Component {
         event.preventDefault();
     }
 
+    
     render() {
         return (
             <React.Fragment>
                 <Jumbotron fluid>
                     <div className="container">
                         <div className="row">
+                            <div className="col-2"> <i id="mug" className="fa fa-coffee fa-lg"></i> </div>
                             <div className="col">
-                                <h1>Houston Cafe</h1>
-                                <h4>Your local coffee shop. Bringing the freshest coffee since 2019</h4>
+                                <h1>Houston Café</h1>
+                                <h4>Your local coffee shop.</h4>
+                                <h5>Bringing the freshest coffee since 2019</h5>
                             </div>
                         </div>
                     </div>
@@ -75,7 +78,7 @@ class Header extends Component {
                                 </NavItem>
                             </Nav>
                             <span className="navbar-text ml-auto">
-                                <Button outline onClick={this.toggleModal}>
+                                <Button className="btn btn-outline-light" outline onClick={this.toggleModal}>
                                     <i className="fa fa-sign-in fa-lg" /> Login
                                 </Button>
                             </span>

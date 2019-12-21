@@ -22,9 +22,9 @@ export const PARTNERS = [
     },
     {
         id: 3,
-        name: "Node Outdoor Apparel",
+        name: "You can now order to go",
         image: "/assets/images/node-logo.png",
         featured: true,
-        description: "From polar fleeces to swimsuits, hiking boots to waders, a visit to Node will be sure to get you covered."
+        description: "Click here to learn how to order to go from any of our partners."
     }
 ]

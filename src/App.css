@@ -62,3 +62,11 @@ h2 {
   opacity: 0;
   transition: 300ms ease-out;
 }
+
+#lion {
+  color: white;
+}
+
+#mug {
+  font-size: 10rem;
+}
